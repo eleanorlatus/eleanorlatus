@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eleanor</h1>
 <h3 align="center">A passionate full-stack developer from London, UK</h3>
 
-- 🌱 I’m currently learning **JS, Node and React**
+- 🌱 I’m currently learning **JS, Node and React** through 100Devs
 
-- 👨‍💻 All of my projects are available at [https://eleanorlatus.netlify.app/](https://eleanorlatus.netlify.app/)
+- 👨‍💻 You can view my available projects at [https://eleanorlatus.netlify.app/](https://eleanorlatus.netlify.app/)
 
 - 📫 How to reach me **eleanor@latus.co.uk**
 
