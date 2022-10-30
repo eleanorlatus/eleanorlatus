@@ -1,17 +1,29 @@
-<h1 align="center">Hi 👋, I'm Eleanor</h1>
-<h3 align="center">A passionate full-stack developer from London, UK</h3>
+![EL banner](https://user-images.githubusercontent.com/90465357/198888485-21c1056a-9d13-4097-9e8b-f591a81e0d16.png)
 
-- 🌱 I’m currently learning **JS, Node and React** through 100Devs
+Hey! I'm Eleanor, a Software Engineer from London, UK. 
 
-- 👨‍💻 You can view my available projects at [https://eleanorlatus.netlify.app/](https://eleanorlatus.netlify.app/)
 
-- 📫 How to reach me **eleanor@latus.co.uk**
+:books: My projects:<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eleanorlatus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eleanorlatus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eleanorlatus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eleanorlatus" height="30" width="40" /></a>
-</p>
+<a href="https://mariospizzeria.netlify.app">Mario's Pizzeria</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<a href="https://houndhaircuts.netlify.app">Hound Haircuts</a>
+
+
+
+
+
+<!-- | Attempt | Mario's Pizzeria    | Hound Haircuts  |
+| :---:   | :---: | :---: |
+| Seconds | <img width="298" alt="marios" src="https://user-images.githubusercontent.com/90465357/198889083-0fc8f991-e735-4978-9759-6f536a414411.png">  | <img width="298" alt="hound" src="https://user-images.githubusercontent.com/90465357/198889081-45316b05-19bf-4ab1-a1ec-d2773c1326cb.png">   | -->
+
+
+💻 Tech I work with:<br><br>
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+
+🌐 My socials:<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eleanorlatus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/eleanorlatus) 
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=eleanorlatus&icon=0&color=0)](https://visitcount.itsvg.in)
