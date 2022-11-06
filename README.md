@@ -1,6 +1,6 @@
 ![EL banner](https://user-images.githubusercontent.com/90465357/198888485-21c1056a-9d13-4097-9e8b-f591a81e0d16.png)
 
-Hey! I'm Eleanor, a Software Engineer from London, UK. You can learn more about me and my work by going to my portfolio <a href="https://eleanorlatus.netlify.app">here.</a>
+Hey! I'm Eleanor, a Software Engineer from London, UK. You can learn more about me by going to my portfolio <a href="https://eleanorlatus.netlify.app">here.</a>
 
 
 :books: My projects:<br>
