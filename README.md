@@ -5,11 +5,11 @@ Hey! I'm Eleanor, a Software Engineer from London, UK. You can learn more about 
 
 :books: My projects:<br>
 
-<a href="https://mariospizzeria.netlify.app">Mario's Pizzeria</a>
+<a href="https://mariospizzeria.netlify.app">Mario's Pizzeria</a> :pizza:
 
-<a href="https://houndhaircuts.netlify.app">Hound Haircuts</a>
+<a href="https://houndhaircuts.netlify.app">Hound Haircuts</a> :dog:
 
-<a href="https://rocksmash.netlify.app">RockSmash!</a>
+<a href="https://rocksmash.netlify.app">RockSmash!</a> :boom:
 
 
 
