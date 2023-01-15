@@ -27,7 +27,7 @@ Hey! I'm Eleanor, a Software Engineer from London, UK. You can learn more about 
 📊 GitHub Stats:<br><br>
 ![](https://github-readme-stats-nu-teal.vercel.app/api?username=eleanorlatus&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eleanorlatus&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eleanorlatus&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-nu-teal.vercel.app/api/top-langs/?username=eleanorlatus&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 //github-readme-stats-nu-teal.vercel.app
 
