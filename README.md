@@ -25,9 +25,9 @@ Hey! I'm Eleanor, a Software Engineer from London, UK. You can learn more about 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eleanorlatus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/eleanorlatus) 
 
 📊 GitHub Stats:<br><br>
-![](https://github-readme-stats-eta-beige.vercel.app/api?username=eleanorlatus&title_color=DC8E9E&text_color=000000&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eleanorlatus&title_color=DC8E9E&hide_border=true&bg_color=00000000)<br/>
-![](https://github-readme-stats-eta-beige.vercel.app/api/top-langs/?username=eleanorlatus&title_color=DC8E9E&text_color=000000&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
+![](https://github-readme-stats-eta-beige.vercel.app/api?username=eleanorlatus&title_color=DC8E9E&text_color=000000&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eleanorlatus&title_color=DC8E9E&hide_border=true)<br/>
+![](https://github-readme-stats-eta-beige.vercel.app/api/top-langs/?username=eleanorlatus&title_color=DC8E9E&text_color=000000&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=eleanorlatus&icon=0&color=10)](https://visitcount.itsvg.in)
 
