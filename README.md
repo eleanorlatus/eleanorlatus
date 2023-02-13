@@ -5,17 +5,11 @@ Hey! I'm Eleanor, a Software Engineer from London, UK. You can learn more about 
 
 :books: My projects:<br>
 
-<a href="https://mariospizzeria.netlify.app">Mario's Pizzeria</a> :pizza:
+<a href="https://rateyourrental.cyclic.app">Rate your rental</a> 🏠
 
 <a href="https://houndhaircuts.netlify.app">Hound Haircuts</a> :dog:
 
-<a href="https://rocksmash.netlify.app">RockSmash!</a> :boom:
-
-
-
-<!-- | Attempt | Mario's Pizzeria    | Hound Haircuts  |
-| :---:   | :---: | :---: |
-| Seconds | <img width="298" alt="marios" src="https://user-images.githubusercontent.com/90465357/198889083-0fc8f991-e735-4978-9759-6f536a414411.png">  | <img width="298" alt="hound" src="https://user-images.githubusercontent.com/90465357/198889081-45316b05-19bf-4ab1-a1ec-d2773c1326cb.png">   | -->
+<a href="https://groomingfurbulousdarling.co.uk">Grooming Furbulous Darling</a> 🐩
 
 
 💻 Tech I work with:<br><br>
