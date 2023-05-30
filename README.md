@@ -41,21 +41,21 @@ See [my website](https://eleanorlatus.netlify.app) for more information!
       </p>
         <p><strong>Javascript, Tailwind CSS, Node.js, & Express.js</strong> - Platform which aims to help UK renters make informed decisions about where they live by reviewing their landlord and rental property.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Hound Haircuts</h3>
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img width="100%" alt="Hound Haircuts" src="https://user-images.githubusercontent.com/90465357/221158344-8f45193e-c252-415d-8fd7-91c1530e9538.png"/>
+     <td width="50%" valign="top">
+      <h3 align="center">React Wordle</h3>
+        <a target="_blank" href="https://react-wordle-el.netlify.app">
+          <img width="1105" alt="image" src="https://github.com/eleanorlatus/eleanorlatus/assets/90465357/f4dec79e-14da-4f01-9157-73a5619ca396"/>
         </a>
         <p align="center">
           
-  <a href="https://github.com/eleanorlatus/HoundHaircuts" target="_blank">
+  <a href="https://github.com/eleanorlatus/wordle-react" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="https://houndhaircuts.netlify.app" target="_blank">
+  <a href="https://react-wordle-el.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Website to advertise a dog grooming business built to a client's specification.</p>
+        <p><strong>React, Javascript & CSS</strong> - A clone of the popular word game Wordle using React.</p>
     </td>
   </tr>
   
@@ -76,21 +76,21 @@ See [my website](https://eleanorlatus.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Rocksmash</h3>
-        <a target="_blank" href="https://rocksmash.netlify.app">
-          <img width="100%" alt="Rocksmash" src="https://user-images.githubusercontent.com/90465357/221187721-cfdfae45-31d0-4bc6-8ecd-7e49f69f741b.png"/>
+   <td width="50%" valign="top">
+      <h3 align="center">Hound Haircuts</h3>
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img width="100%" alt="Hound Haircuts" src="https://user-images.githubusercontent.com/90465357/221158344-8f45193e-c252-415d-8fd7-91c1530e9538.png"/>
         </a>
         <p align="center">
           
-  <a href="https://github.com/eleanorlatus/Rocksmash" target="_blank">
+  <a href="https://github.com/eleanorlatus/HoundHaircuts" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="https://rocksmash.netlify.app" target="_blank">
+  <a href="https://houndhaircuts.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A simple game where you can play rock, paper, scissors against the computer.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Website to advertise a dog grooming business built to a client's specification.</p>
     </td>
   </tr>
 </table>
