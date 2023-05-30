@@ -44,7 +44,7 @@ See [my website](https://eleanorlatus.netlify.app) for more information!
      <td width="50%" valign="top">
       <h3 align="center">React Wordle</h3>
         <a target="_blank" href="https://react-wordle-el.netlify.app">
-          <img width="1105" alt="image" src="https://github.com/eleanorlatus/eleanorlatus/assets/90465357/f4dec79e-14da-4f01-9157-73a5619ca396"/>
+          <img width="1105" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/90465357/242031044-f4dec79e-14da-4f01-9157-73a5619ca396.png"/>
         </a>
         <p align="center">
           
