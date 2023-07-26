@@ -78,7 +78,7 @@ See [my website](https://eleanorlatus.netlify.app) for more information!
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Hound Haircuts</h3>
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://houndhaircuts.netlify.app">
             <img width="100%" alt="Hound Haircuts" src="https://user-images.githubusercontent.com/90465357/221158344-8f45193e-c252-415d-8fd7-91c1530e9538.png"/>
         </a>
         <p align="center">
