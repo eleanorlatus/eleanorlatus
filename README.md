@@ -18,8 +18,6 @@
 
 Creative, detail-oriented, software engineer. Proven track record of creating and implementing successful front- and back-end web applications. 
 
-See [my website](https://eleanorlatus.netlify.app) for more information!
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -35,9 +33,6 @@ See [my website](https://eleanorlatus.netlify.app) for more information!
   <a href="https://github.com/eleanorlatus/rate-your-rental" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://rateyourrental.cyclic.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
         <p><strong>Javascript, Tailwind CSS, Node.js, & Express.js</strong> - Platform which aims to help UK renters make informed decisions about where they live by reviewing their landlord and rental property.</p>
     </td>
